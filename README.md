@@ -1,2 +1,2 @@
 # weather-app
-this is a weather app DONE FOR AN LAU COMPUTER SCIENCE PROJECT
+this is an "weatherapp" made with tkinter for an LAU campus
