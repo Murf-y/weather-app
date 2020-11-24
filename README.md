@@ -1,2 +1,2 @@
 # weather-app
-this is an "weatherapp" made with tkinter for an LAU campus
+this is an " bad weatherapp" made with tkinter for an LAU campus 
